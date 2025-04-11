@@ -66,7 +66,6 @@ Apart from the pre-installed Microsoft Office Suite, we need to install 2 import
 ### What is Sales analysis?
 
 As the name suggests, sales analysis involves analyzing the sales made by a company over a period of time. Many companies have a monthly sales analysis , a quarterly sales analysis or an annual sales analysis. A regular sales analysis helps the company understand where they are performing better and where they need to improve. Sales analysis also allows the company to make proper budget allocations so that the profit is maximized.
-> [For more details about Sales Analysis, go through my blog.](https://inblog.in/Sales-Analysis-and-Management-v78SlMKYMg)
 
 [(Back to top)](#table-of-contents)
 
@@ -75,11 +74,6 @@ As the name suggests, sales analysis involves analyzing the sales made by a comp
 ## Business case
 
 Any Business Intelligence project begins with the understanding of the client demands. A client had sent a Business Request in form of an email stating their requirements and demands. Below is the Business Request received from the customer. I have changed the name due to non disclosure agreement issues and retracted the client's name.
-
-<!-- <p align="center">
-  <img src="./Business Request Proposal.pdf" width="1050" title ="Business Request Document">
-  <em>Business Request Document</em>
-</p> -->
 
 <p align="center">
   <a href="./Business Request Proposal.pdf" target="_blank">
